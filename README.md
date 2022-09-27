@@ -1,4 +1,4 @@
-## Hey 👋, I'm Vedant Nimbarte!  
+# Hey 👋, I'm Vedant Nimbarte!  
   
 
 <a href="https://github.com/vedantnimbarte" target="_blank">
