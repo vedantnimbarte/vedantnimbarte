@@ -9,11 +9,7 @@
 </a>
 <a href="https://instagram.com/vedantnimbarte" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/vedantnimbarte" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-  
+</a> 
 
 ### 🚀 Welcome to My Coding Universe! 
 Hey there! I'm a passionate Full-Stack Developer, weaving magic with a diverse tech stack that includes Node.js, React.js, Python, MySQL, PostgreSQL, MongoDB, IoT, Microservices, Next.js, Firebase, and more. 💻 
