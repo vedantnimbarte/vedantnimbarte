@@ -1,73 +1,91 @@
-# Hey there! 👋 I'm Vedant Nimbarte
-
-**Full-Stack Developer** | **System Architecture Enthusiast** | **Tech Content Creator**
-
+<!-- Header -->
 <div align="center">
-  <a href="https://github.com/vedantnimbarte" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/vedantnimbarte" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/vedantnimbarte" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Vedant+Nimbarte+%F0%9F%91%8B;Building+AI+agents+%E2%80%A2+Terminals+%E2%80%A2+Dev+tools;Rust+%E2%9D%A4%EF%B8%8F+TypeScript+%E2%9D%A4%EF%B8%8F+Systems+thinking" alt="typing banner" />
+
+  <p>
+    <a href="https://linkedin.com/in/vedantnimbarte"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://instagram.com/vedantnimbarte"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+    <a href="mailto:marketing@cloudairy.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=vedantnimbarte&style=flat-square&color=58A6FF&label=Profile+Views" />
+  </p>
+
 </div>
 
 ---
 
-## 🚀 About Me
+### About me
 
-I'm a passionate developer who loves turning ideas into reality through code. I specialize in building scalable full-stack applications and writing about system design, databases, and emerging technologies.
+I'm a developer obsessed with the surface between **humans and machines** — terminals, editors, and the AI agents that increasingly live inside them. I spend most of my time building tools that I wish existed and writing about the systems-level ideas behind them.
 
-**What I do:**
-- 🔧 Build robust backends and elegant frontends
-- 📝 Write insightful tech blogs on system design & optimization
-- 🌱 Explore cutting-edge technologies like Blockchain and IoT
-- 🎯 Create seamless, user-centric digital experiences
-
----
-
-## 💻 Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- **Currently building** &nbsp;→&nbsp; multi-provider coding agents, agentic terminals, and a control plane for the ROCm/AMD GPU stack
+- **Currently learning** &nbsp;→&nbsp; deeper Rust internals, distributed agent orchestration, GPU runtimes
+- **Previously shipped** &nbsp;→&nbsp; IoT systems for home automation, ESP32 telemetry, full-stack web apps
+- **Open to** &nbsp;→&nbsp; collaborating on developer tools, AI infra, and anything that makes the terminal feel alive
 
 ---
 
-## 📊 GitHub Stats
+### Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/vedantnimbarte/ArcCode">ArcCode</a> &nbsp;<code>Rust</code></h4>
+      <p>Multi-provider terminal coding agent. Bring your own model — Anthropic, OpenAI, Gemini, Ollama, OpenRouter. Built for speed and provider-agnostic workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/vedantnimbarte/Arc">Arc</a> &nbsp;<code>TypeScript</code></h4>
+      <p>Desktop terminal + AI agent runtime. PTY-backed terminal, embedded code editor, and multi-agent orchestration in one surface.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/vedantnimbarte/ROCm-Studio">ROCm-Studio</a> &nbsp;<code>TypeScript</code></h4>
+      <p>Mission control for the ROCm ecosystem — a workbench for AMD GPU developers to inspect, benchmark, and manage their stack.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/vedantnimbarte?tab=repositories&q=home_automation">IoT &amp; Home Automation</a> &nbsp;<code>JS / C++</code></h4>
+      <p>ESP32 + MQTT pub/sub, realtime temperature monitoring, and a full home-automation API + user app suite.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Tech I reach for
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,nodejs,python,react,nextjs,tailwind,express,flask" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,kubernetes,aws,firebase,linux,git" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,bash,vscode,vim,figma" />
+</p>
+
+---
+
+### GitHub in numbers
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedantnimbarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantnimbarte&layout=compact&langs_count=8&theme=tokyonight"/>
+
+  <img height="165" src="https://streak-stats.demolab.com?user=vedantnimbarte&theme=tokyonight&hide_border=true" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantnimbarte&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" />
+
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+### Beyond the code
 
-I'm always excited to collaborate on innovative projects and discuss the latest in tech. Whether you're looking to build something amazing or just want to chat about system architecture, feel free to reach out!
+I write occasionally about **system design, databases, and the quieter corners of distributed systems** — the kind of post that helps when you're stuck at 2 a.m. wondering why your query planner hates you. If that's your kind of thing, the social links above are the best place to find it.
+
+> *"The best tools disappear into the work. That's what I'm trying to build."*
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedantnimbarte&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <sub>Thanks for stopping by — feel free to <a href="https://github.com/vedantnimbarte?tab=repositories">poke around the repos</a> or drop a line.</sub>
 </div>
