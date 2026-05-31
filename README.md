@@ -48,6 +48,16 @@ I'm a developer obsessed with the surface between **humans and machines** — te
       <p>ESP32 + MQTT pub/sub, realtime temperature monitoring, and a full home-automation API + user app suite.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/vedantnimbarte/kortex-memory">Kodex Memory</a> &nbsp;<code>Python</code></h4>
+      <p>Production-grade, multi-tenant memory layer for LLMs and AI coding agents (Claude Code, Codex, OpenCode). Plug it in via MCP and your agents get a shared, durable, scoped, access-controlled memory that survives across sessions and tools.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/vedantnimbarte/UntitledAI">UntitledAI</a> &nbsp;<code>Python</code></h4>
+      <p>A collection of AI models built from scratch — each one a self-contained, documented, and runnable project living in its own top-level folder. This repo is intended to grow over time; new models will be added as separate folders, each with its own README, configs, training/serving code, and tests.</p>
+    </td>
+  </tr>
 </table>
 
 ---
