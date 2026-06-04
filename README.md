@@ -77,11 +77,6 @@ I'm a developer obsessed with the surface between **humans and machines** — te
 ### GitHub in numbers
 
 <div align="center">
-
-  <img height="165" src="https://streak-stats.demolab.com?user=vedantnimbarte&theme=tokyonight&hide_border=true&v=2" />
-
-  <br/><br/>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantnimbarte&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity&v=2" />
 
 </div>
