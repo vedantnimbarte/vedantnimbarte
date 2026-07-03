@@ -36,15 +36,6 @@ I'm a developer obsessed with the surface between **humans and machines** — te
 
 ---
 
-### GitHub in numbers
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantnimbarte&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity&v=2" />
-
-</div>
-
----
-
 ### Beyond the code
 
 I write occasionally about **system design, databases, and the quieter corners of distributed systems** — the kind of post that helps when you're stuck at 2 a.m. wondering why your query planner hates you. If that's your kind of thing, the social links above are the best place to find it.
